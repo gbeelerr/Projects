@@ -57,24 +57,6 @@ https://social.msdn.microsoft.com/Forums/vstudio/en-US/e16464c8-1b72-4485-9891-9
 
 ###### Diagram:
 
-Account        ContentCollections    
-
-    |                   |                 (used as in ContentCollections, Listener as a type in LinkedList)  
-    
-    |                   |                     Content   
-    
-    |                   |                          |  
-    
-   \ /                 \ /                         |  
-   
-Artist|Listener     Playlist|Album                \ /  
-
-
-                                               Song|Podcast
-          
-UI
-(Driver)  
-
 
 Using abstract classes is the most reusable and efficient way to achieve this solution. While Accounts,
 Content, ContentCollections, aren't tangeable objects that can be instantiated, their subclasses,

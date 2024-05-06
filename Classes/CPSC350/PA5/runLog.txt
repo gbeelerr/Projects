@@ -1,0 +1,17 @@
+Student ID: 1022197
+Name: Graedon
+Academic Standing: Sophomore
+Major: engineering
+GPA: 4.600000
+Advisor ID:10
+
+Faculty ID: 10
+Name: greer
+Standing: iohojh
+Department: scienceAdvisees: 
+
+Faculty ID: 100
+Name: woods
+Standing: coach
+Department: athleticsAdvisees: 
+

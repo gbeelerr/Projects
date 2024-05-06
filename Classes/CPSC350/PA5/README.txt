@@ -1,5 +1,5 @@
 -Richard Graedon Beeler
--2423448
+-*******
 -beeler@chapman.edu
 -cpsc350-02
 -PA5 - LB-BSTs

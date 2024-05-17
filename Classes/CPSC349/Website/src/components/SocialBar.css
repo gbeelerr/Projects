@@ -1,0 +1,21 @@
+.social-bar {
+    display: flex;
+    justify-content: center;
+    /* Center the social icons horizontally */
+    margin-top: 20px;
+    /* Add space between the content and the social bar */
+}
+
+.social-bar a {
+    margin: 0 50px;
+    /* Add space between each social icon */
+    color: #ffffff;
+    /* Color of the social icons */
+    font-size: 24px;
+    /* Size of the social icons */
+}
+
+.social-bar a:hover {
+    color: #0097b2;
+    /* Change color on hover */
+}

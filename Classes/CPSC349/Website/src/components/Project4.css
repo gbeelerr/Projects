@@ -1,0 +1,42 @@
+.outer-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.inner-text-container {
+    color: #87CEEB;
+    font-weight: 500;
+    background-color: rgba(0, 0, 0, 0.8);
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.inner-text-container p {
+    /* white-space:pre-wrap */
+    margin-top: 25px;
+    margin-left: 15px;
+    margin-right: 10px;
+    overflow-wrap: break-word;
+}
+
+.P4header {
+    color: #0097b2;
+}
+
+
+
+.image-container {
+    background-color: black;
+    display: flex;
+    width: 50%;
+}
+
+p {
+    font-size: 16px;
+}
+
+a {
+    color: black;
+    font-weight: 600;
+}

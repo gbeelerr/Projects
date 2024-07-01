@@ -1,3 +1,0 @@
-I am currently a Sophomore at Chapman University, planning on graduating in Fall of 2025. I am majoring in Software Engineering and minoring in Economics. Some of my passions include running, working out, watching sports, playing video games, playing guitar and bass, and my faith in Jesus Christ.
-
-I began this portfolio as a project for a Human Factors class which looks at effective web design, and decided to create it from scratch using React. I hope to continue adding new projects and updates as I grow as a software developer.

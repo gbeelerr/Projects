@@ -1,5 +1,0 @@
-As mentioned above, this project was started as an asignment in my CPSC 349 - Human Factors class at Chapman University, as part of my final project for the class.
-
-The assignment's goal was to build a website that encompassed everything we learned about design and usability for software. It includes at least 5 Gestalt Principles *INCLUDE HERE* and 4 of Neilson's Heuristics *INCLUDE HERE*.
-
-I created the website using React, which is a component-based Javascript library which makes it easy to create complex UIs with just JS, HTML, and CSS, and the extensive packages that React has.
